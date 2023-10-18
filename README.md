@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/albertii04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="albertii04" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/albert marimon plaza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albert marimon plaza" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/albert-marim%c3%b3n-plaza-309a4a182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/albert-marim%c3%b3n-plaza-309a4a182" height="30" width="40" /></a>
 <a href="https://instagram.com/albertii04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="albertii04" height="30" width="40" /></a>
 </p>
 
